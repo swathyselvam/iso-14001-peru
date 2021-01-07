@@ -1,0 +1,2 @@
+# iso-14001-peru
+El curso de formación de auditor líder de ISO 14001 proporciona a los delegados el conocimiento y las habilidades para planificar, realizar y gestionar una auditoría del Sistema de Gestión Ambiental (SGA) de acuerdo con ISO 19011 (principios y directrices de auditoría). Este curso también ayuda a los delegados a comprender los conceptos clave de los requisitos de ISO 14001 y los principios de EMS. Además, el curso de formación de auditor líder ISO 14001 guía a los delegados para convertirse en un auditor líder de EMS exitoso.
